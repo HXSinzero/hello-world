@@ -1,3 +1,3 @@
 # hello-world
-nothing interesting./n
+nothing interesting.\n
 emmmmmmmmmmmmmmmm
